@@ -82,3 +82,12 @@ When saving, the drawing will be stored as "MyImage.png" in the same directory a
 
 - The thickness cannot be reduced below 1
 - The application can be safely closed using 'q' key or the window close button
+
+## Future Enhancements
+
+Potential features for future versions:
+- Additional shape options
+- More color choices
+- Undo/Redo functionality
+- Layer support
+- Custom canvas sizes
